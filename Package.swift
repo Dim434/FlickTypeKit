@@ -5,7 +5,7 @@ import PackageDescription
 let package = Package(
     name: "FlickTypeKit",
     platforms: [
-        .watchOS(.v4),
+        .watchOS(.v8),
     ],
     products: [
         .library(
